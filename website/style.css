@@ -70,7 +70,7 @@ button {
 
 /* card-2 styling */
 .card-2 {
-    padding: 0 150px;
+    padding: 0 150px 75px;
 }
 
 h3 {
@@ -103,4 +103,28 @@ h3 {
     border-style: solid;
     border-color: #3882f6;
     border-radius: 15px;
+}
+
+/* card-3 styling */
+.card-3 {
+    background-color: #e5e7eb;
+    padding: 75px 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.quote-holder {
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.credit {
+    align-self: flex-end;
 }
