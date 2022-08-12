@@ -24,7 +24,7 @@ ul {
     gap: 20px;
 }
 
-li {
+li, p{
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -67,3 +67,5 @@ button {
     padding: 5px 32px;
     margin-top: 10px;
 }
+
+/* card-2 styling */
