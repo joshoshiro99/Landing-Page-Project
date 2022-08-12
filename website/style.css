@@ -132,5 +132,22 @@ h3 {
 /*  card-4 styling */
 .card-4 {
     background-color: #3882f6;
+    border-radius: 10px;
+    margin: 75px 150px;
+    padding: 25px 75px;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
+h4 {
+    font-size: 24px;
+    margin: 0;
+}
+
+button {
+    border-radius: 5px;
+    border-color: #F9FAF8;
+    border-style: solid;
 }
